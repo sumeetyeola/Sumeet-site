@@ -5,3 +5,5 @@
  2)chalk
  3)git 
  4)github
+ 5)HTML
+ 6)CSS
